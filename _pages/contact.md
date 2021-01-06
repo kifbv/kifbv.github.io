@@ -1,7 +1,7 @@
 ---
 title: Contact
-subtitle: Board comes with a built-in contact form, that's free and easy to set up.
-description: Board is a stylish full-width masonry grid theme.
+subtitle: Please get in touch for any queries related to our work.</br>You can also follow us on <a href="https://www.instagram.com/ratierfranck/" target="_blank">Instagram</a>.
+description: How to contact Franck Ratier Design Studio.
 featured_image: /images/demo/about.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: About Board
-subtitle: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-description: Board is a stylish full-width masonry grid theme.
+title: About the Studio
+subtitle: We bring considered and carefully crafted pieces into the most exclusive interiors worldwide.
+description: Informations about Franck Ratier Design Studio.
 featured_image: /images/demo/landscape-05.jpg
 ---
 
