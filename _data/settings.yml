@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Franck Ratier
+  site_title: Lucien & Lucien - Design Studio
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -16,7 +16,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Franck Ratier - Furniture Design
+  footer_tagline: Lucien & Lucien - Design Studio
 
 grid_settings:
   overlay_opacity: 0.8

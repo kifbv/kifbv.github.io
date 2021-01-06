@@ -1,7 +1,7 @@
 ---
 title: About the Studio
 subtitle: We bring considered and carefully crafted pieces into the most exclusive interiors worldwide.
-description: Informations about Franck Ratier Design Studio.
+description: Informations about Lucien & Lucien Design Studio.
 featured_image: /images/demo/landscape-05.jpg
 ---
 
