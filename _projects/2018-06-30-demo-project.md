@@ -1,12 +1,12 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Escale a Paris'
+subtitle: 'Display Box'
 date: 2018-06-30 00:00:00
-description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-featured_image: '/images/demo/square-05.jpg'
+description: Escale a Paris - An exclusive display box for your most precious objects.
+featured_image: '/images/escale/escale9.jpg'
 ---
 
-![](/images/demo/landscape-01.jpg)
+![](/images/escale/escale9.jpg)
 
 ## Demo content
 
@@ -55,24 +55,24 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
-	<img src="/images/demo/square-02.jpg">
-	<img src="/images/demo/square-03.jpg">
-	<img src="/images/demo/square-04.jpg">
-	<img src="/images/demo/landscape-05.jpg">
+	<img src="/images/escale/escale1.jpg">
+	<img src="/images/escale/escale2.jpg">
+	<img src="/images/escale/escale3.jpg">
+	<img src="/images/escale/escale4.jpg">
+	<img src="/images/escale/escale5.jpg">
+	<img src="/images/escale/escale6.jpg">
 </div>
 
 Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
 
 ```html
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/square-01.jpg">
-    <img src="/images/demo/portrait-02.jpg">
-    <img src="/images/demo/square-02.jpg">
-    <img src="/images/demo/square-03.jpg">
-    <img src="/images/demo/square-04.jpg">
-    <img src="/images/demo/landscape-05.jpg">
+    <img src="/images/escale/escale8.jpg">
+    <img src="/images/escale/escale7.jpg">
+    <img src="/images/escale/escale6.jpg">
+    <img src="/images/escale/escale5.jpg">
+    <img src="/images/escale/escale4.jpg">
+    <img src="/images/escale/escale3.jpg">
 </div>
 ```
 
@@ -89,9 +89,9 @@ Here's another gallery with only one column, which creates a carousel slide-show
 A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
 
 <div class="gallery" data-columns="1">
-	<img src="/images/demo/landscape-02.jpg">
-	<img src="/images/demo/landscape-03.jpg">
-	<img src="/images/demo/landscape-04.jpg">
+	<img src="/images/escale/escale4.jpg">
+	<img src="/images/escale/escale5.jpg">
+	<img src="/images/escale/escale6.jpg">
 </div>
 
 ### What about videos?
