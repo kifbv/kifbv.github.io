@@ -1,24 +1,22 @@
 basic_settings:
-  site_title: Board
+  site_title: Franck Ratier
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 200
+  logo_image: /images/logo.png
+  logo_width: 250
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Work'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
     - title: 'About'
-      url: '/about'
+      url: '/about/'
     - title: 'Contact'
-      url: '/contact'
+      url: '/contact/'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: Franck Ratier - Furniture Design
 
 grid_settings:
   overlay_opacity: 0.8
@@ -27,14 +25,14 @@ grid_settings:
 
 contact_settings:
   form_action: ''
-  confirmation_url: '/thanks'
+  confirmation_url: '/thanks/'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
   facebook_url: ''
   twitter_url: ''
-  instagram_url: ''
+  instagram_url: 'https://www.instagram.com/ratierfranck/'
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
@@ -60,23 +58,32 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
+  # background color
+  background_color: '#f0f0f0'
+  # separator line color
   background_alt_color: '#f4f5f6'
+  # main title
   text_dark_color: '#2A2F36'
+  # footer title
   text_medium_color: '#6C7A89'
+  # copyright color
   text_light_color: '#ABB7B7'
-  accent_color: '#4ecdc4'
+  # hover color
+  #accent_color: '#4ecdc4'
+  accent_color: '#808080'
   border_color: '#dddddd'
-  overlay_background_color: '#4ecdc4'
-  overlay_text_color: '#ffffff'
-  overlay_accent_color: '#2A2F36'
+  # menu colors
+  overlay_background_color: '#f0f0f0'
+  overlay_text_color: '#2A2F36'
+  overlay_accent_color: '#808080'
+  # error color
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
-  title_font: '"Poppins", sans-serif'
-  body_font: '"Poppins", sans-serif'
-  regular_weight: 300
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Jura:wght@400;500&display=swap" rel="stylesheet">'
+  title_font: '"Jura", sans-serif'
+  body_font: '"Jura", sans-serif'
+  regular_weight: 400
   bold_weight: 500
   site_title:
     small_size: 22
