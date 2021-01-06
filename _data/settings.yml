@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Work'
       url: '/'
     - title: 'About'
-      url: '/about/'
+      url: '/about'
     - title: 'Contact'
-      url: '/contact/'
+      url: '/contact'
 
 footer_settings:
   footer_tagline: Franck Ratier - Furniture Design
