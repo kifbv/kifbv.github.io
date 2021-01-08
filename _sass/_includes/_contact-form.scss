@@ -76,6 +76,30 @@
 	}
 }
 
+.contact-form__checkbox[type=checkbox] {
+        border: 2px solid $border-color;
+        border-radius: 2px;
+	padding: 5px 5px;
+        background: $background-color;
+        color: $text-dark-color;
+
+	@include mq(tabletp) {
+		font-size: $p-medium;
+	}
+
+	@include mq(laptop) {
+		font-size: $p-large;
+	}
+
+	&:focus {
+		outline: none;
+		border-color: $accent-color;
+	}
+}
+.contact-form__checkbox[type=checkbox]:checked {
+        background: $text-dark-color;
+}
+
 .contact-form__input,
 .contact-form__textarea {
 	width: 100%;
