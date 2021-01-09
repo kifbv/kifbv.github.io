@@ -1,6 +1,7 @@
 basic_settings:
   site_title: Franck Ratier Design Studio
-  favicon_image: /images/favicon.png
+  #favicon is now hardcoded in _layouts/defaults.html
+  #favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: /images/franckratierlogo.png
