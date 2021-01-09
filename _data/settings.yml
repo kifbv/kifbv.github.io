@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Lucien & Lucien - Design Studio
+  site_title: Franck Ratier
   favicon_image: /images/lucienlucienfavicon.png
 
 header_settings:
-  logo_image: /images/lucienlucienlogo4.png
+  logo_image: /images/franckratierlogo.png
   logo_width: 240
 
 menu_settings:
@@ -20,7 +20,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 20
+  grid_spacing: 10
   content_alignment: bottom
 
 contact_settings:
@@ -59,7 +59,8 @@ social_settings:
 
 color_settings:
   # background color
-  background_color: '#f0f0f0'
+  #background_color: '#f0f0f0'
+  background_color: '#ffffff'
   # separator line color
   background_alt_color: '#f4f5f6'
   # main title
@@ -80,7 +81,8 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Jura:wght@400;500&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Jura:wght@400;500&family=Permanent+Marker&display=swap" rel="stylesheet">'
+  logo_font: '"Permanent Marker", sans-serif'
   title_font: '"Jura", sans-serif'
   body_font: '"Jura", sans-serif'
   regular_weight: 400
