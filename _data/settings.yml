@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Franck Ratier
-  favicon_image: /images/lucienlucienfavicon.png
+  site_title: Franck Ratier Design Studio
+  favicon_image: /images/favicon.png
 
 header_settings:
   logo_image: /images/franckratierlogo.png
@@ -20,7 +20,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.8
-  grid_spacing: 10
+  grid_spacing: 20
   content_alignment: bottom
 
 contact_settings:
