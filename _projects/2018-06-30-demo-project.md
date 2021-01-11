@@ -1,5 +1,5 @@
 ---
-title: 'Escale a Paris'
+title: 'Escale à Paris'
 subtitle: 'Display Box'
 date: 2018-06-30 00:00:00
 description: Escale a Paris - An exclusive display box for your most precious objects.
