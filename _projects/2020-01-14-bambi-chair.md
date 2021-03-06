@@ -3,7 +3,7 @@ title: 'Bambi'
 subtitle: 'Dining Chair'
 date: 2020-01-14 00:00:00
 description: Bambi - Dining Chair.
-featured_image: '/images/bambi/bambi1.png'
+featured_image: '/images/bambi/bambi.png'
 ---
 
 ![](/images/escale/escale9.jpg)
