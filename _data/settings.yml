@@ -95,7 +95,8 @@ font_settings:
     medium_size: 26
     large_size: 30
     weight: 400
-    letter_spacing: -0.02
+    letter_spacing: 0.02
+    #letter_spacing: -0.02
   menu:
     small_size: 30
     medium_size: 14
