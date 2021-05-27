@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: franck ratier
+  site_title: "franck Ratier"
   #favicon is now hardcoded in _layouts/defaults.html
   #favicon_image: /images/favicon.png
 
@@ -95,7 +95,7 @@ font_settings:
     medium_size: 26
     large_size: 30
     weight: 400
-    letter_spacing: 0.08
+    letter_spacing: 0.15
     #letter_spacing: -0.02
   menu:
     small_size: 30
