@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: "franck Ratier"
+  site_title: "Franck Ratier"
   #favicon is now hardcoded in _layouts/defaults.html
   #favicon_image: /images/favicon.png
 
