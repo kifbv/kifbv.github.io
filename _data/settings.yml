@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Franck Ratier
+  site_title: franck ratier
   #favicon is now hardcoded in _layouts/defaults.html
   #favicon_image: /images/favicon.png
 
@@ -84,8 +84,8 @@ color_settings:
 
 font_settings:
   #font_embed: '<link href="https://fonts.googleapis.com/css2?family=Candal&display=swap" rel="stylesheet">'
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Jura:wght@400&family=Cinzel:wght@400&display=swap" rel="stylesheet">'
-  logo_font: '"Cinzel", cursive'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Jura:wght@400&family=Cinzel+Decorative&family=Cinzel:wght@400&display=swap" rel="stylesheet">'
+  logo_font: '"Cinzel Decorative", cursive'
   title_font: '"Jura", sans-serif'
   body_font: '"Jura", sans-serif'
   regular_weight: 400
@@ -95,7 +95,7 @@ font_settings:
     medium_size: 26
     large_size: 30
     weight: 400
-    letter_spacing: 0.02
+    letter_spacing: 0.08
     #letter_spacing: -0.02
   menu:
     small_size: 30
@@ -119,7 +119,7 @@ font_settings:
     small_size: 25
     medium_size: 35
     large_size: 45
-    weight: 400
+    weight: 300
     letter_spacing: -0.02
     line_height: 1.2
   h2:
