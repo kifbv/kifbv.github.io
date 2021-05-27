@@ -21,8 +21,6 @@ Car related papers can be stored under the removeable tray.
 
 The wood and leather used will be chosen according to your needs, and the tray will be made specifically to fit your key fobs.
 
----
-
 <div class="gallery" data-columns="3">
 	<img src="/images/granturismo/GranTurismo10.jpg">
 	<img src="/images/granturismo/GranTurismo9.jpg">
