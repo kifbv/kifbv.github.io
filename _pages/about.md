@@ -4,7 +4,7 @@ description: Informations about the Studio
 featured_image: /images/demo/landscape-05.jpg
 ---
 
-We work with this motto in mind, always challenging the limits of shapes textures and materials, always thriving to fulfill your dreams, with absolute attention to details, and without any compromise on quality.
+We work with this motto in mind, always challenging the limits of shapes, textures and materials, always thriving to fulfill your dreams, with absolute attention to details, and without any compromise on quality.
 
 Our mission is to explore the grey space between art and design to create the most exquisite pieces that will complement the most elegant interiors.
 
@@ -22,7 +22,7 @@ If you require something special, we will be delighted to design a bespoke piece
 
 First, we'll need to meet with you to understand what you're after. You may have a brief that will help us design an original piece for you, or maybe your interior designer already knows what is needed. It can also simply be the case of talking together about existing pieces that you admire and deciding how we can draw inspiration from them to produce something new that will be truly yours. This stage usually requires only one meeting, ideally at the place where the piece will be installed, and with all the persons involved in the final decision.
 
-Once we've understood what you really want, we'll start the design phase. We'll meet again to present you with our ideas and confirm that you are happy for us to proceed. We may bring you sketches for one or two designs, rarely more, because we'll already have refined the design enough at this stage.
+Once we've understood what you really want, we'll start the design phase. We'll meet again to present you with our ideas and confirm that you are happy for us to proceed. We may bring you sketches for one or two ideas, rarely more, because we'll already have refined the design enough at this stage.
 
 Ideally, this is when you confirm that you are happy for us to start working on your piece.
 
