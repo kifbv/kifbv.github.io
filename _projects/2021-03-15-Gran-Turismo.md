@@ -11,7 +11,7 @@ featured_image: '/images/granturismo/GranTurismo11.jpg'
 ## Gran Turismo
 
 *Display box made of tamo ash, ash, aluminium and glass with a leather tray.*
-*Limited edition of 7 + 1AP.*
+*Limited edition of 3 + 1AP.*
 
 Inspired by the world of luxury cars and travel.
 
