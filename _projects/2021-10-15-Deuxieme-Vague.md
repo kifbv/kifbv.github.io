@@ -10,11 +10,11 @@ featured_image: '/images/deuxiemevague/DeuxiemeVague1.jpg'
 
 ## Deuxieme Vague
 
-*Console table made of an aluminium honeycomb core and sycamore veneer.*
+*Console table - Aluminium honeycomb core, mapple veneer.*
 
 Simple lines provide a sleek and elegant result for this console table and conceal challenging techniques, necessary to preserve the slenderness of the top and its proportions in relation to the base.
 
-That top is made of an aluminium honeycomb structure reinforced with fibreglass and then covered with mapple veneers and lippings.
+That top is made of an aluminium honeycomb structure reinforced with fibreglass and then dressed with mapple veneers and lippings.
 
 Please [get in touch with us]({{ site.base_url }}/contact) if you'd like to learn more about this project or if you'd like us to design and build a bespoke console table for you.
 

@@ -10,18 +10,16 @@ featured_image: '/images/granturismo/GranTurismo11.jpg'
 
 ## Gran Turismo
 
-*Display box made of tamo ash, ash, aluminium and glass with a leather tray.*
+*Display box - Tamo ash, ash, aluminium, glass, leather.*<br>
 *Limited edition of 3 + 1AP.*
 
 Inspired by the world of luxury cars and travel.
 
-The keys to your most precious cars deserve to be stored in this exquisite display box.
+This box has been designed to receive the key fobs of three luxury vehicles, with related papers stored under the removeable tray.
 
-Car related papers can be stored under the removeable tray.
+The wood and leather used will be chosen according to your personal taste, and the tray will be made specifically to fit your key fobs.
 
-The wood and leather used will be chosen according to your needs, and the tray will be made specifically to fit your key fobs.
-
-Please [get in touch with us]({{ site.base_url }}/contact) if you'd like to learn more about this project or if you'd like us to design and build a bespoke box to showcase one or more of your beloved objects.
+Please [get in touch with us]({{ site.base_url }}/contact) if you'd like to learn more about this project or if you'd like us to design and build a bespoke box to showcase one or more of your most precious objects.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/granturismo/GranTurismo10.jpg">
