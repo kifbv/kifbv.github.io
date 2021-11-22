@@ -10,9 +10,9 @@ featured_image: '/images/deuxiemevague/DeuxiemeVague1.jpg'
 
 ## Deuxieme Vague
 
-*Console table*<br>
-*Aluminium honeycomb core, mapple veneer.*<br>
-*Limited edition of 7 + 1 AP.*
+*Aluminium honeycomb core, mapple veneer*<br>
+*H90 x W130 x D23 cm / H36 x W52 x D9.2 in*<br>
+*Limited edition of 7 + 1 AP*
 
 Simple lines provide a sleek and elegant result for this console table and conceal challenging techniques, necessary to preserve the slenderness of the top and its proportions in relation to the base.
 
