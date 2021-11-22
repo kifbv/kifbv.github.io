@@ -10,7 +10,8 @@ featured_image: '/images/granturismo/GranTurismo11.jpg'
 
 ## Gran Turismo
 
-*Display box - Tamo ash, ash, aluminium, glass, leather.*<br>
+*Display box*<br>
+*Tamo ash, ash, aluminium, glass, leather.*<br>
 *Limited edition of 3 + 1AP.*
 
 Inspired by the world of luxury cars and travel.
