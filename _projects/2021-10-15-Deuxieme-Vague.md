@@ -8,8 +8,6 @@ featured_image: '/images/deuxiemevague/DeuxiemeVague1.jpg'
 
 ![](/images/deuxiemevague/DeuxiemeVague1.jpg)
 
-## Deuxieme Vague
-
 *Aluminium honeycomb core, mapple veneer*<br>
 *H90 x W130 x D23 cm / H36 x W52 x D9.2 in*<br>
 *Limited edition of 7 + 1 AP*

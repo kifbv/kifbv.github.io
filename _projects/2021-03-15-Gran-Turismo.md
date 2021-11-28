@@ -8,8 +8,6 @@ featured_image: '/images/granturismo/GranTurismo11.jpg'
 
 ![](/images/granturismo/GranTurismo11.jpg)
 
-## Gran Turismo
-
 *Tamo ash, ash, aluminium, glass, leather*<br>
 *W28 x D18 * H6 cm / W11.2 x D7.2 x H2.4 in*<br>
 *Limited edition of 3 + 1AP*

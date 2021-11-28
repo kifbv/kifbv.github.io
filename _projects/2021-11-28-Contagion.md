@@ -8,8 +8,6 @@ featured_image: '/images/contagion/Shelf03.jpg'
 
 ![](/images/contagion/Shelf03.jpg)
 
-## Contagion
-
 *European Walnut, Bronze*<br>
 *H8 x W140 x D21 cm / H3.2 x W56 x D8.4 in*<br>
 
