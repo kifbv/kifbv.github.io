@@ -20,7 +20,6 @@ Please [get in touch with us]({{ site.base_url }}/contact) if you'd like to lear
 	<img src="/images/contagion/Shelf02.jpg">
 	<img src="/images/contagion/Shelf04.jpg">
 	<img src="/images/contagion/Shelf05.jpg">
-	<img src="/images/contagion/Shelf06.jpg">
 	<img src="/images/contagion/Shelf07.jpg">
 	<img src="/images/contagion/Shelf08.jpg">
 	<img src="/images/contagion/Shelf09.jpg">
