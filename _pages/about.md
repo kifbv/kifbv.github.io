@@ -6,7 +6,7 @@ featured_image: /images/demo/landscape-05.jpg
 
 We work with this motto in mind, always challenging the limits of shapes, textures and materials, always thriving to fulfill your dreams, with absolute attention to details, and without any compromise on quality.
 
-Our mission is to explore the grey space between art and design to create the most exquisite pieces that will complement the most elegant interiors.
+Our mission is to explore the grey space between art and design to create exquisite pieces that will complement the most elegant interiors.
 
 ### Limited editions
 
