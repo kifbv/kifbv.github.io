@@ -1,6 +1,6 @@
 basic_settings:
   site_title: "Franck Ratier"
-  company_name: "Studio Lucian & Lucian SRL"
+  company_name: "Franck Ratier"
   #favicon is now hardcoded in _layouts/defaults.html
   #favicon_image: /images/favicon.png
 
